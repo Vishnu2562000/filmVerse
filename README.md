@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Jovan - [@jovan-vukic](https://github.com/Vishnu2562000)
+Vishnu Vardhan Chandragiri - [@Vishnu-Vardhan-Chandragiri](https://github.com/Vishnu2562000)
 
 Project Link: [https://github.com/Vishnu2562000/filmVerse](https://github.com/Vishnu2562000/filmVerse)
 
