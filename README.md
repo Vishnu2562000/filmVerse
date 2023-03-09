@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Vishnu2562000/filmVerse">
-    <img src="https://www.linkpicture.com/q/blueLogo_2.gif" alt="FilmVerse" width="252" height="85">
+    <img src="https://www.linkpicture.com/q/blueLogo_2.gif" alt="FilmVerse">
   </a>
 
   <h2 align="center">FilmVerse - Vishnu Vardhan Chandragiri</h2>
